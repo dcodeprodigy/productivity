@@ -5,14 +5,12 @@
       "headers": [
         {
           "key": "X-Frame-Options",
-          "value": "ALLOW-FROM https://josephalex.vercel.app" 
+          "value": "ALLOW-FROM https://josephalex.vercel.app\n" 
         }
       ]
     }
   ]
 }
-
-
 {
   "cleanUrls": true
 }
